@@ -9,9 +9,3 @@ Nesse projeto, fiquei responsável por criar a interface de chat utilizando HTML
 
 * **Classes sugeridas:** `UiComponent`, `ChatPanel`, `MessageList`, `ChatMessage` e `CustomerSelector`.
 * **Entrega:** Interface funcional, diagramas UML e documentação da arquitetura.
-
----
-
-## Minhas contribuições no API:
-
-*(Preencha aqui com as suas contribuições no API, seguindo o mesmo estilo!)*
